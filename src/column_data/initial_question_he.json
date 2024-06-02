@@ -1,0 +1,184 @@
+[
+    {
+        "Category": "ילדים",
+        "Questions": "איך היה להתארגן בבוקר",
+        "Description": "תחילת היום משפיעה על המשכו",
+        "init": "",
+        "Main": "cat1"
+    },
+    {
+        "Category": "ילדים",
+        "Questions": "זמן מסך",
+        "Description": "כאן נעקוב אחרי שימוד במסכים לראות את ההשפעה שלהם על שאר מרכיבי היום",
+        "init": "",
+        "Main": "cat1"
+    },
+    {
+        "Category": "ילדים",
+        "Questions": "התקפי זעם",
+        "Description": "כאן נעקוב אחרי התפרציות זעם. ללמוד מה גורם להם ",
+        "init": "",
+        "Main": "cat1"
+    },
+    {
+        "Category": "ילדים",
+        "Questions": "האם היה אירוע מיוחד היום",
+        "Description": "האם הילד בריא ושמח",
+        "init": "",
+        "Main": "cat1"
+    },
+    {
+        "Category": "ילדים",
+        "Questions": "איך היה להתארגן בערב",
+        "Description": "מעקב אחר השכבות לשינה ושינת לילה",
+        "init": "",
+        "Main": "cat1"
+    },
+    {
+        "Category": "לימודים",
+        "Questions": "איך עבר היום",
+        "Description": "",
+        "init": "",
+        "Main": "cat2"
+    },
+    {
+        "Category": "לימודים",
+        "Questions": "האם היה ארוע מיוחד ",
+        "Description": "",
+        "init": "",
+        "Main": "cat2"
+    },
+    {
+        "Category": "לימודים",
+        "Questions": "איך היה היום מבחינה חברתית",
+        "Description": "",
+        "init": "",
+        "Main": "cat2"
+    },
+    {
+        "Category": "לימודים",
+        "Questions": "כמה פרודקטיבי היה היום שלך",
+        "Description": "",
+        "init": "",
+        "Main": "cat2"
+    },
+    {
+        "Category": "עבודה",
+        "Questions": "איך עבר היום",
+        "Description": "",
+        "init": "",
+        "Main": "cat3"
+    },
+    {
+        "Category": "עבודה",
+        "Questions": "כמה פרודקטיבי היה היום שלך",
+        "Description": "",
+        "init": "",
+        "Main": "cat3"
+    },
+    {
+        "Category": "עבודה",
+        "Questions": "איך היה היום מבחינה חברתית",
+        "Description": "",
+        "init": "",
+        "Main": "cat3"
+    },
+    {
+        "Category": "זוגיות",
+        "Questions": "",
+        "Description": "",
+        "init": "",
+        "Main": "cat4"
+    },
+    {
+        "Category": "דברים שבלב",
+        "Questions": "",
+        "Description": "",
+        "init": "",
+        "Main": "cat5"
+    },
+    {
+        "Category": "יום יום",
+        "Questions": "אימון גופני",
+        "Description": "אימון יומי",
+        "init": "",
+        "Main": "cat6"
+    },
+    {
+        "Category": "יום יום",
+        "Questions": "מדיטציה",
+        "Description": "איך זה הרגיש לי",
+        "init": "",
+        "Main": "cat6"
+    },
+    {
+        "Category": "יום יום",
+        "Questions": "האם אכלתי בריא היום",
+        "Description": "מעקב תזונה יומי",
+        "init": "",
+        "Main": "cat6"
+    },
+    {
+        "Category": "יום יום",
+        "Questions": "איך היתה השינה שלך?",
+        "Description": "מעקב שינה",
+        "init": "",
+        "Main": "cat6"
+    },
+    {
+        "Category": "משימות",
+        "Questions": "האם עניתי על שאלות?",
+        "Description": "מענה לשאלות מוסיף ניקוד",
+        "init": "1",
+        "Main": "cat7"
+    },
+    {
+        "Category": "משימות",
+        "Questions": "מענה לשאלות מאפשר הוספת הערה למעקב",
+        "Description": "נסה את זה",
+        "init": "1",
+        "Main": "cat7"
+    },
+    {
+        "Category": "משימות",
+        "Questions": "המשימה להפתיע את בן/בת הזוג שלך",
+        "Description": "",
+        "init": "1",
+        "Main": "cat7"
+    },
+    {
+        "Category": "משימות",
+        "Questions": "המשימה להפתיע את עצמי",
+        "Description": "",
+        "init": "1",
+        "Main": "cat7"
+    },
+    {
+        "Category": "דברים שאני מנסה להוסיף לחיים",
+        "Questions": "הוספת נושא מסויים יומיומי למעקב",
+        "Description": "",
+        "init": "1",
+        "Main": "cat8"
+    },
+    {
+        "Category": "דברים שאני מנסה להוסיף לחיים",
+        "Questions": "הוספת משימות למעקב",
+        "Description": "",
+        "init": "1",
+        "Main": "cat8"
+    },
+    {
+        "Category": "דברים שאני מנסה להוסיף לחיים",
+        "Questions": "הוספת שאלות מכל הסוגים",
+        "Description": "",
+        "init": "1",
+        "Main": "cat8"
+    },
+    {
+        "Category": "דברים שאני מנסה להוסיף לחיים",
+        "Questions": "מחיקת שאלות לא רלוונטיות",
+        "Description": "",
+        "init": "1",
+        "Main": "cat8"
+    }
+]

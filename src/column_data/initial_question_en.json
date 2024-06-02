@@ -1,0 +1,184 @@
+[
+    {
+        "Category": "Children",
+        "Questions": "How was it to organize in the morning",
+        "Description": "The beginning of the day affects the mood",
+        "init": "Waking up",
+        "Main": "cat1"
+    },
+    {
+        "Category": "Children",
+        "Questions": "Screen time",
+        "Description": "Here we track screen time to see its impact on other aspects of the day",
+        "init": "",
+        "Main": "cat1"
+    },
+    {
+        "Category": "Children",
+        "Questions": "Anger outbursts",
+        "Description": "Here we track anger outbursts to learn what triggers them",
+        "init": "",
+        "Main": "cat1"
+    },
+    {
+        "Category": "Children",
+        "Questions": "Was there a special event today",
+        "Description": "Is the child healthy and happy",
+        "init": "",
+        "Main": "cat1"
+    },
+    {
+        "Category": "Children",
+        "Questions": "How was it to organize in the evening",
+        "Description": "Tracking sleep patterns and night sleep",
+        "init": "",
+        "Main": "cat1"
+    },
+    {
+        "Category": "Studies",
+        "Questions": "How did the day go",
+        "Description": "",
+        "init": "",
+        "Main": "cat2"
+    },
+    {
+        "Category": "Studies",
+        "Questions": "Was there a special event ",
+        "Description": "",
+        "init": "",
+        "Main": "cat2"
+    },
+    {
+        "Category": "Studies",
+        "Questions": "How was the day socially",
+        "Description": "",
+        "init": "",
+        "Main": "cat2"
+    },
+    {
+        "Category": "Studies",
+        "Questions": "How productive was your day",
+        "Description": "",
+        "init": "",
+        "Main": "cat2"
+    },
+    {
+        "Category": "Work",
+        "Questions": "How was the day",
+        "Description": "",
+        "init": "",
+        "Main": "cat3"
+    },
+    {
+        "Category": "Work",
+        "Questions": "How productive was your day",
+        "Description": "",
+        "init": "",
+        "Main": "cat3"
+    },
+    {
+        "Category": "Work",
+        "Questions": "How was the day socially",
+        "Description": "",
+        "init": "",
+        "Main": "cat3"
+    },
+    {
+        "Category": "Relationships",
+        "Questions": "",
+        "Description": "",
+        "init": "",
+        "Main": "cat4"
+    },
+    {
+        "Category": "Things on my mind",
+        "Questions": "",
+        "Description": "",
+        "init": "",
+        "Main": "cat5"
+    },
+    {
+        "Category": "Everyday",
+        "Questions": "Physical exercise",
+        "Description": "Daily exercise",
+        "init": "",
+        "Main": "cat6"
+    },
+    {
+        "Category": "Everyday",
+        "Questions": "Meditation",
+        "Description": "How did it feel to me",
+        "init": "",
+        "Main": "cat6"
+    },
+    {
+        "Category": "Everyday",
+        "Questions": "Did I eat healthy today",
+        "Description": "Daily nutrition tracking",
+        "init": "",
+        "Main": "cat6"
+    },
+    {
+        "Category": "Everyday",
+        "Questions": "How was your sleep?",
+        "Description": "Sleep tracking",
+        "init": "",
+        "Main": "cat6"
+    },
+    {
+        "Category": "Tasks",
+        "Questions": "Did I answer questions?",
+        "Description": "Additional response scores for answering questions",
+        "init": "1",
+        "Main": "cat7"
+    },
+    {
+        "Category": "Tasks",
+        "Questions": "Answering questions allows adding a comment for tracking",
+        "Description": "Try it out",
+        "init": "1",
+        "Main": "cat7"
+    },
+    {
+        "Category": "Tasks",
+        "Questions": "Surprise your partner task",
+        "Description": "",
+        "init": "1",
+        "Main": "cat7"
+    },
+    {
+        "Category": "Tasks",
+        "Questions": "Surprise myself task",
+        "Description": "",
+        "init": "1.",
+        "Main": "cat7"
+    },
+    {
+        "Category": "Things I'm trying to add to my life",
+        "Questions": "Adding a specific daily topic for tracking",
+        "Description": "",
+        "init": "1",
+        "Main": "cat8"
+    },
+    {
+        "Category": "Things I'm trying to add to my life",
+        "Questions": "Adding tasks for tracking",
+        "Description": "",
+        "init": "1",
+        "Main": "cat8"
+    },
+    {
+        "Category": "Things I'm trying to add to my life",
+        "Questions": "Adding questions of all types",
+        "Description": "",
+        "init": "1",
+        "Main": "cat8"
+    },
+    {
+        "Category": "Things I'm trying to add to my life",
+        "Questions": "Deleting irrelevant questions",
+        "Description": "",
+        "init": "1",
+        "Main": "cat8"
+    }
+]

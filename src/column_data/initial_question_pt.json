@@ -1,0 +1,184 @@
+[
+    {
+        "Category": "Crianças",
+        "Questions": "Como foi organizar de manhã",
+        "Description": "O início do dia afeta o humor",
+        "init": "Acordar",
+        "Main": "cat1"
+    },
+    {
+        "Category": "Crianças",
+        "Questions": "Tempo de tela",
+        "Description": "Aqui rastreamos o tempo de tela para ver seu impacto em outros aspectos do dia",
+        "init": "",
+        "Main": "cat1"
+    },
+    {
+        "Category": "Crianças",
+        "Questions": "Explosões de raiva",
+        "Description": "Aqui rastreamos explosões de raiva para aprender o que as desencadeia",
+        "init": "",
+        "Main": "cat1"
+    },
+    {
+        "Category": "Crianças",
+        "Questions": "Houve algum evento especial hoje",
+        "Description": "A criança está saudável e feliz",
+        "init": "",
+        "Main": "cat1"
+    },
+    {
+        "Category": "Crianças",
+        "Questions": "Como foi organizar à noite",
+        "Description": "Rastreando padrões de sono e sono noturno",
+        "init": "",
+        "Main": "cat1"
+    },
+    {
+        "Category": "Estudos",
+        "Questions": "Como foi o dia",
+        "Description": "",
+        "init": "",
+        "Main": "cat2"
+    },
+    {
+        "Category": "Estudos",
+        "Questions": "Houve algum evento especial",
+        "Description": "",
+        "init": "",
+        "Main": "cat2"
+    },
+    {
+        "Category": "Estudos",
+        "Questions": "Como foi o dia socialmente",
+        "Description": "",
+        "init": "",
+        "Main": "cat2"
+    },
+    {
+        "Category": "Estudos",
+        "Questions": "Quão produtivo foi o seu dia",
+        "Description": "",
+        "init": "",
+        "Main": "cat2"
+    },
+    {
+        "Category": "Trabalho",
+        "Questions": "Como foi o dia",
+        "Description": "",
+        "init": "",
+        "Main": "cat3"
+    },
+    {
+        "Category": "Trabalho",
+        "Questions": "Quão produtivo foi o seu dia",
+        "Description": "",
+        "init": "",
+        "Main": "cat3"
+    },
+    {
+        "Category": "Trabalho",
+        "Questions": "Como foi o dia socialmente",
+        "Description": "",
+        "init": "",
+        "Main": "cat3"
+    },
+    {
+        "Category": "Relacionamentos",
+        "Questions": "",
+        "Description": "",
+        "init": "",
+        "Main": "cat4"
+    },
+    {
+        "Category": "Coisas em minha mente",
+        "Questions": "",
+        "Description": "",
+        "init": "",
+        "Main": "cat5"
+    },
+    {
+        "Category": "Cotidiano",
+        "Questions": "Exercício físico",
+        "Description": "Exercício diário",
+        "init": "",
+        "Main": "cat6"
+    },
+    {
+        "Category": "Cotidiano",
+        "Questions": "Meditação",
+        "Description": "Como me senti",
+        "init": "",
+        "Main": "cat6"
+    },
+    {
+        "Category": "Cotidiano",
+        "Questions": "Comi saudável hoje",
+        "Description": "Rastreamento nutricional diário",
+        "init": "",
+        "Main": "cat6"
+    },
+    {
+        "Category": "Cotidiano",
+        "Questions": "Como foi seu sono?",
+        "Description": "Rastreamento do sono",
+        "init": "",
+        "Main": "cat6"
+    },
+    {
+        "Category": "Tarefas",
+        "Questions": "Respondi perguntas?",
+        "Description": "Pontuações de resposta adicionais para responder perguntas",
+        "init": "1",
+        "Main": "cat7"
+    },
+    {
+        "Category": "Tarefas",
+        "Questions": "Responder perguntas permite adicionar um comentário para rastreamento",
+        "Description": "Experimente",
+        "init": "1",
+        "Main": "cat7"
+    },
+    {
+        "Category": "Tarefas",
+        "Questions": "Tarefa de surpreender seu parceiro",
+        "Description": "",
+        "init": "1",
+        "Main": "cat7"
+    },
+    {
+        "Category": "Tarefas",
+        "Questions": "Tarefa de me surpreender",
+        "Description": "",
+        "init": "1.",
+        "Main": "cat7"
+    },
+    {
+        "Category": "Coisas que estou tentando adicionar à minha vida",
+        "Questions": "Adicionando um tópico diário específico para rastreamento",
+        "Description": "",
+        "init": "1",
+        "Main": "cat8"
+    },
+    {
+        "Category": "Coisas que estou tentando adicionar à minha vida",
+        "Questions": "Adicionando tarefas para rastreamento",
+        "Description": "",
+        "init": "1",
+        "Main": "cat8"
+    },
+    {
+        "Category": "Coisas que estou tentando adicionar à minha vida",
+        "Questions": "Adicionando perguntas de todos os tipos",
+        "Description": "",
+        "init": "1",
+        "Main": "cat8"
+    },
+    {
+        "Category": "Coisas que estou tentando adicionar à minha vida",
+        "Questions": "Excluindo perguntas irrelevantes",
+        "Description": "",
+        "init": "1",
+        "Main": "cat8"
+    }
+]
