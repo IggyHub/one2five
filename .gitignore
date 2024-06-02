@@ -63,3 +63,7 @@ yarn-error.log
 .metro-health-check*
 src/screens/RatingGraphScreen.js
 .yarn/*
+.vscode/launch.json
+key.txt
+yarn.lock
+package-lock.json
